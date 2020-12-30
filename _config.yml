@@ -1,1 +1,8 @@
-theme: jekyll-theme-minimal
+# Site Info
+title:              "Greg Hynds"
+author_name:        "Greg Hynds"
+logo_url:           https://avatars0.githubusercontent.com/u/60611327?v=4
+
+# Site Settings
+url:                https://greghynds.github.io
+remote_theme:       heiswayi/the-plain
