@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
-Hi :wave:
+Hi.
 
 I'm a software developer from London. I mostly write code for Android.
 
